@@ -154,6 +154,3 @@ src/
 - 💻 GitHub: https://github.com/ieharo1
 - 🌐 Portafolio: https://ieharo1.github.io/portafolio-isaac.haro/
 
----
-
-⭐️ Si te gusta este proyecto, ¡no olvides darle una estrella en GitHub!
